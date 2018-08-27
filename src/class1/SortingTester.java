@@ -1,3 +1,4 @@
+package class1;
 import java.util.*;
 
 public class SortingTester {
@@ -7,8 +8,8 @@ public class SortingTester {
         QuickSort quick = new QuickSort();
         MergeSort merge = new MergeSort();
 //        quick.quickSort(x);
-//        select.selectSort(x);
-        merge.mergeSort(x);
+        select.selectSort(x);
+//        merge.mergeSort(x);
         System.out.println(Arrays.toString(x));
     }
 
