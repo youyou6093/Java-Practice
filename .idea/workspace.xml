@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b8a442-4569-4b05-ba86-92cd519dbf3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class2/AtoThePowerofB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/ClassicalBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/CloestInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/FirstOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/KCloestInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/LastOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/SearchInSortedMatrixI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class2/SearchInUnknownSizedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/QueueByTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/StackWithMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -174,48 +168,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="41" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4879" />
-          <entry key="txt" value="64" />
+          <entry key="java" value="5481" />
+          <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4879" />
-          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="JAVA" value="5481" />
+          <entry key="PLAIN_TEXT" value="84" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/class1/Move0sToTheEndI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/class2/FibonacciNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/class2/ClassicalBinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -270,11 +246,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/class2/SearchInUnknownSizedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="11" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="388">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class3/QueueByTwoStacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/class3/StackWithMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -348,6 +354,8 @@
         <option value="$PROJECT_DIR$/src/class2/KCloestInSortedArray.java" />
         <option value="$PROJECT_DIR$/src/class2/SearchInSortedMatrixI.java" />
         <option value="$PROJECT_DIR$/src/class2/SearchInUnknownSizedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/class3/QueueByTwoStacks.java" />
+        <option value="$PROJECT_DIR$/src/class3/StackWithMin.java" />
       </list>
     </option>
   </component>
@@ -405,13 +413,7 @@
               <item name="JavaPractice1" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractice1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="class3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -425,7 +427,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535355590935" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535356739299" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -548,7 +550,7 @@
       <workItem from="1534902951709" duration="13507000" />
       <workItem from="1534968227159" duration="818000" />
       <workItem from="1535330402748" duration="615000" />
-      <workItem from="1535336114602" duration="17029000" />
+      <workItem from="1535336114602" duration="18210000" />
     </task>
     <task id="LOCAL-00001" summary="Add a few  tree examples.">
       <created>1535348294638</created>
@@ -571,11 +573,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535352987426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finish Class 1 and 2">
+      <created>1535355679232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535355679232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56876000" />
+    <option name="totallyTimeSpent" value="58057000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -587,7 +596,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="1920" y="-4" width="1920" height="1084" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7885154" visible="true" weight="0.28563774" />
@@ -669,7 +678,8 @@
     <MESSAGE value="Add a few  tree examples." />
     <MESSAGE value="use packages" />
     <MESSAGE value="Add class Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class Problems" />
+    <MESSAGE value="Finish Class 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Class 1 and 2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -883,8 +893,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/class2/SearchInUnknownSizedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="11" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="388">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class3/QueueByTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class3/StackWithMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
