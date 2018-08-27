@@ -1,10 +1,14 @@
 package linkedlist;
+import class3.ReverseLinkedList;
 
 public class LinkedListTester {
     public static void main(String[] args) {
         int[] x = {3,5,1,2,4,8};
         ListNode xList = SingleLinkedList.generateList(x);
         printList(xList);
+        ReverseLinkedList tester = new ReverseLinkedList();
+        printList(tester.reverse(xList));
+
 
     }
 
