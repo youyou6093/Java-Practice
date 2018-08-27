@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class QueueFromList {
     private ListNode head;
     private ListNode tail;

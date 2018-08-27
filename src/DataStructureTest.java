@@ -1,3 +1,6 @@
+import linkedlist.QueueFromList;
+import linkedlist.StackFromList;
+
 public class DataStructureTest {
     public static void main (String[] args) {
         testStack();

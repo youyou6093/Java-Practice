@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class LinkedListTester {
     public static void main(String[] args) {
         int[] x = {3,5,1,2,4,8};

@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class StackFromList {
     private ListNode head = null;
 

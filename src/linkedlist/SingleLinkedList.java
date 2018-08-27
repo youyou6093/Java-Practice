@@ -1,3 +1,4 @@
+package linkedlist;
 
 public class SingleLinkedList {
     public static ListNode generateList(int[] array){
