@@ -11,9 +11,10 @@ public class Bipartite {
             return true;
         }
         for (int i = 0; i < graph.size(); i++) {
-            if (!set.containsKey(graph.get(i)) ) {
-                set.put(graph.get(i), -1);
+            if (set.containsKey(graph.get(i)) ) {
+                continue;
             }
+            set.put(graph.get(i), -1);
             queue.offerLast(graph.get(i));
             while (!queue.isEmpty()) {
                 GraphNode cur = queue.pollFirst();

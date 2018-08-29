@@ -39,9 +39,11 @@ myList.add(index, e);
 myList.isEmpty();
 myList.size();
 myList.remove(index);
+myList.set(index, e);
 myList.subList(index1, index2); //[index1, index2]
 myList.toArray();
 List<List<Integer>> list = new ArrayList<>();
+for (Integer a : myList) 
 ```
 ## Array
 
@@ -53,7 +55,21 @@ Arrays.toString(x)
 ## Heap
 
 ```java
+Comparator<point> myComparator = new Comparator<point>() {
+    @Override
+    public int compare(point t1, point t2) {
+        if (t1.val == t2.val) {
+            return 0;
+        } else {
+            return t1.val < t2.val ? -1 : 1;
+        }
+    }
+};
 
+PriorityQueue<point> pQueue = new PriorityQueue<>(k, myComparator);
+pQueue.offer(e);
+pQueue.poll();
+pQueue.peek();
 ```
 
 ## Tips

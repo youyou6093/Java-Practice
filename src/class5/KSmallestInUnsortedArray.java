@@ -15,22 +15,19 @@ public class KSmallestInUnsortedArray {
     public int[] kSmallest(int[] array, int k) {
         // Write your solution here
         int[] ret = new int[k];
-        select(ret, array, 0, array.length - 1, 0, k);
+        if (k == 0) {
+            return ret;
+        }
+        select(array, 0, array.length - 1, k - 1);
+        for (int i = 0; i < k; i++) {
+            ret[i] = array[i];
+        }
         Arrays.sort(ret);
         return ret;
     }
 
-    public void select(int[] ret, int[] array, int left, int right, int pos, int k) {
-        if (k == 0) {
-            return;
-        }
-        if (left == right) {
-            ret[pos++] = array[left];
-            return;
-        }
-        if (left >= right) {
-            return;
-        }
+    public void select(int[] array, int left, int right, int target) {
+
         int pivot = left +  (int) ((right - left + 1) * Math.random());
 //        int pivot = left + (right - left) / 2;
         swap(array, pivot, right);
@@ -44,15 +41,13 @@ public class KSmallestInUnsortedArray {
         }
         swap(array, i, right);
         pivot = i;
-        if (pivot - left + 1 <= k) {
-            for (int index = left; index <= pivot; index++) {
-                ret[pos++] = array[index];
-            }
-            select(ret, array, pivot + 1, right, pos , k - (pivot - left + 1));
+        if (pivot == target) {
+            return;
+        } else if (pivot > target) {
+            select(array, left, pivot - 1, target);
         } else {
-            select(ret, array, left, pivot, pos, k);
+            select(array, pivot + 1, right, target);
         }
-
     }
 
 
