@@ -3,13 +3,6 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class DeleteNodeBST {
-    public static void main(String[] args) {
-        Integer[] array = {5,3,6,2,4,null,7};
-        TreeNode root = Tree.constructTree(array);
-        root = deleteNode(root, 3);
-        System.out.println(Arrays.toString(TreeTraversal.preOrder(root).toArray()));
-    }
-
 
     public static TreeNode deleteNode(TreeNode root, int key) {
         TreeNode prev = null;

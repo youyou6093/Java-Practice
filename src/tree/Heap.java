@@ -1,4 +1,6 @@
 package tree;
+import org.omg.CORBA.MARSHAL;
+
 import java.util.*;
 
 //using array to represent heap
@@ -7,20 +9,6 @@ import java.util.*;
 //indexOfParent = (index - 1) / 2;
 
 public class Heap {
-    public static void main(String[] args) {
-        int[] testArray = {7,5,4,2,1,8,9};
-        Heap testHeap = new Heap(1);
-        for (int i = 0; i < testArray.length; i++) {
-            testHeap.insert(testArray[i]);
-            testHeap.printHeap();
-        }
-        for (int i = 0; i < testArray.length; i++) {
-            testHeap.pop();
-            testHeap.printHeap();
-        }
-    }
-
-
     private List<Integer> array;
     private int size = 0;
     public Heap(int capacity) {
@@ -32,10 +20,8 @@ public class Heap {
             System.out.print(array.get(i) + " ");
         }
         System.out.println();
-//        System.out.println(Arrays.toString(array.toArray()));
     }
 
-    //percolate up
     public void insert(int e) {
         array.add(e);
         size++;
@@ -78,21 +64,14 @@ public class Heap {
         while (cur * 2 + 1 < size) {
             int lc = cur * 2 + 1;
             int rc = cur * 2 + 2;
-            if (rc > size) {
-                if (array.get(lc) < array.get(cur)) {
-                    swap(lc, cur);
-                    cur = lc;
-                } else {
-                    break;
-                }
+            int lValue = array.get(lc);
+            int rValue = rc >= size ? Integer.MAX_VALUE : array.get(rc);
+            if (array.get(cur) > Math.min(lValue, rValue)) {
+                int next = lValue <= rValue ? lc : rc;
+                swap(cur, next);
+                cur = next;
             } else {
-                if (array.get(cur) > Math.min(array.get(lc), array.get(rc))) {
-                    int nextIndex = array.get(lc) <= array.get(rc) ? lc : rc;
-                    swap(nextIndex,cur);
-                    cur = nextIndex;
-                } else {
-                    break;
-                }
+                break;
             }
         }
     }

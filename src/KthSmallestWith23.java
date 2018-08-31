@@ -1,11 +1,6 @@
 import java.util.*;
 
 public class KthSmallestWith23 {
-    public static void main(String[] args) {
-        KthSmallestWith23 tester = new KthSmallestWith23();
-        System.out.println(tester.kth(40));
-
-    }
 
     static class point{
         int i;

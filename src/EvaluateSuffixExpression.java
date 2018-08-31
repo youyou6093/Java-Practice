@@ -2,14 +2,9 @@ import java.util.*;
 
 
 public class EvaluateSuffixExpression {
-    public static void main(String[] args) {
-        EvaluateSuffixExpression x = new EvaluateSuffixExpression();
-        System.out.println(x.evaluate2(new String[] {"2","12","4","/","+" }));
 
-    }
 
     public int evaluate(String[] suffix) {
-        // Write your solution here
         return helper(suffix, 0, suffix.length - 1);
     }
 
