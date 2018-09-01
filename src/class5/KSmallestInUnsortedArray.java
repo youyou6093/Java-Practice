@@ -12,6 +12,30 @@ public class KSmallestInUnsortedArray {
 
     }
 
+    public int[] kSmallest2(int[] array, int k) {
+        // Write your solution here
+        if (k <= 0) {
+            return new int[]{};
+        }
+        PriorityQueue<Integer> pq = new PriorityQueue<>(k, Collections.reverseOrder());
+        for (int i = 0; i < k; i++) {
+            pq.offer(array[i]);
+        }
+        for (int i = k; i < array.length; i++) {
+            if(array[i] < pq.peek()) {
+                pq.poll();
+                pq.offer(array[i]);
+            }
+        }
+        int[] res = new int[k];
+        int index = k;
+        for (int i = 0; i < k; i++) {
+            res[--index] = pq.poll();
+        }
+        return res;
+    }
+
+
     public int[] kSmallest(int[] array, int k) {
         // Write your solution here
         int[] ret = new int[k];

@@ -8,7 +8,7 @@ public class KthSmallestNumberInSortedMatrix {
         tester.kthSmallest(matrix, 16);
     }
 
-    static class point{
+    class point{
         int row;
         int column;
         int val;
@@ -19,21 +19,23 @@ public class KthSmallestNumberInSortedMatrix {
         }
     }
 
+    class myComparator implements Comparator<point>{
+        @Override
+        public int compare(point t1, point t2){
+            if (t1.val == t2.val) {
+                return 0;
+            } else {
+                return t1.val < t2.val ? -1 : 1;
+            }
+        }
+    }
+
     public int kthSmallest(int[][] matrix, int k) {
         // Write your solution here
         int numOfRows = matrix.length;
         int numOfColumns = matrix[0].length;
-        Comparator<point> myComparator = new Comparator<point>() {
-            @Override
-            public int compare(point t1, point t2) {
-                if (t1.val == t2.val) {
-                    return 0;
-                } else {
-                    return t1.val < t2.val ? -1 : 1;
-                }
-            }
-        };
-        PriorityQueue<point> pQueue = new PriorityQueue<>(k, myComparator);
+
+        PriorityQueue<point> pQueue = new PriorityQueue<>(k, new myComparator());
         pQueue.offer(new point(0, 0, matrix[0][0]));
         boolean[][] visited = new boolean[numOfRows][numOfColumns];
         visited[0][0] = true;
