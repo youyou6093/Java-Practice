@@ -19,6 +19,12 @@ class HeapTest {
         }
     }
 
+    @Test
+    void testHeapfiy() {
+        Integer[] testArray = {7,5,4,2,1,8,9};
+        Heap testHeap = new Heap(testArray);
+        testHeap.printHeap();
+    }
 
     @Test
     void printHeap() {

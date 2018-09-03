@@ -12,6 +12,8 @@ x.equals("hello");
 Integer.parseInt(string); //change string to integer
 Integer.toString(num);
 x.length();
+char[] array = str.toCharArray();   //change string to char array
+str = new String(array); //char array to string
 ```
 
 ### StringBuilder
