@@ -1,4 +1,4 @@
-/* the data range is (head, tail) not included
+package datastructres;/* the data range is (head, tail) not included
 *  if (head + 1) % size == tail : queue is empty;
 *  if head == tail : queue is full
 *  capacity is array.length - 1;

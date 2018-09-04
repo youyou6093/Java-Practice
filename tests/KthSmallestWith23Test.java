@@ -1,6 +1,5 @@
+import bfs.KthSmallestWith23;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class KthSmallestWith23Test {
 

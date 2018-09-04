@@ -1,3 +1,4 @@
+package greedy;
 
 public class BuyStockI {
     public int maxProfit(int[] array) {

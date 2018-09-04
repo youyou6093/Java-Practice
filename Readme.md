@@ -79,7 +79,7 @@ Arrays.toString(x)
 char[] array;
 //convert array to string/list
 String a  = new String(array);
-ArrayList<Integer> a = Arrays.asList(array);
+ArrayList<Integer> a = new ArrayList<>(Arrays.asList(array));
 ```
 
 ## Heap
@@ -113,12 +113,35 @@ HashMap<T1, T2> map = new HashMap<>();
 map.put(key, value);
 map.get(key);
 map.containsKey(key);
+map.remove(key);
 ```
+### HashSet
 
+```java
+HashSet<T> set = new HashSet<>();
+set.add(key);
+set.contains(key);
+set.remove(key);
+```
 
 ## Tips
 
 1. 二分查找一要考虑会不会死循环，二要考虑会不会错过解
-2. LinkedList先搞个dummy head再说
+2. LinkedList先搞个dummy head再说, 不要丧失头结点，确定cur.next, cur.key不会报错
 3. 递归不能忘记初始条件
 4. DFS别忘记加层数加一
+5. 谁小移谁的问题别忘记移！！！
+6. Java声明变量别忘记右边
+7. 所有问题先想为空的情况
+8. BFS:
+    part1: push first node into queue, add it to visited
+    part2: keep popping nodes from the queue (expand) 
+           push its neighbors to the queue, add them to visited list (generate)
+    part3: repeat until the queue is empty or get results that we want
+9. DFS:
+    part1: set nodes as visited, check termination condition
+    part2: for neighbors that has not been visited, DFS recursively 
+10. 内外循环千万别搞混了,i , j;
+11. c++ BST删除node需要删除吗？
+12. unsigned int 来接受 vec.size()
+    

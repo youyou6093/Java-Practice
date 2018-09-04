@@ -1,3 +1,5 @@
+package array;
+
 public class SearchInShiftedSortedArray {
     public int search(int[] array, int target) {
         // Write your solution here

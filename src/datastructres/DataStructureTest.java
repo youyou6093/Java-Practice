@@ -1,3 +1,6 @@
+package datastructres;
+
+import datastructres.QueueFromArray;
 import linkedlist.QueueFromList;
 import linkedlist.StackFromList;
 

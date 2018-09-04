@@ -1,3 +1,4 @@
+package treeProblems;
 
 public class Heapify {
     public int[] heapify(int[] array) {
