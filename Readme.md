@@ -14,6 +14,7 @@ Integer.toString(num);
 x.length();
 char[] array = str.toCharArray();   //change string to char array
 str = new String(array); //char array to string
+String[] rets = list.toArray(new String[0]); //list of strings to string array
 ```
 
 ### StringBuilder
@@ -103,6 +104,16 @@ pQueue.poll();
 pQueue.peek();
 ```
 
+## HashMap and Set
+
+### HashMap
+
+```java
+HashMap<T1, T2> map = new HashMap<>();
+map.put(key, value);
+map.get(key);
+map.containsKey(key);
+```
 
 
 ## Tips
@@ -110,4 +121,4 @@ pQueue.peek();
 1. 二分查找一要考虑会不会死循环，二要考虑会不会错过解
 2. LinkedList先搞个dummy head再说
 3. 递归不能忘记初始条件
- 
+4. DFS别忘记加层数加一
