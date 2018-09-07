@@ -8,6 +8,9 @@ import java.util.Queue;
 
 public class Tree {
     public static TreeNode constructTree(Integer[] array) {
+        if (array[0] == null) {
+            return null;
+        }
         TreeNode root = new TreeNode(array[0]);
         Deque<TreeNode> queue = new LinkedList<>();
         int index = 1;

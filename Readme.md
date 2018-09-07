@@ -14,7 +14,9 @@ Integer.toString(num);
 x.length();
 char[] array = str.toCharArray();   //change string to char array
 str = new String(array); //char array to string
+str = new String(array, startposition, length);
 String[] rets = list.toArray(new String[0]); //list of strings to string array
+str.substring(i, j); //include i, exclude j
 ```
 
 ### StringBuilder
