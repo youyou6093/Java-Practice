@@ -25,6 +25,7 @@ StringBuilder sol = new StringBuilder();
 sol.append(chr);
 sol.toString();
 sol.deleteCharAt(sol.length() - 1);
+StringBuilder sol = new StringBuilder(string);
 ```
 
 ## Queue & Stack
@@ -112,16 +113,20 @@ pQueue.peek();
 
 ```java
 HashMap<T1, T2> map = new HashMap<>();
-map.put(key, value);
-map.get(key);
+map.put(key, value); //return old value
+map.get(key);        //return null if not inside
 map.containsKey(key);
 map.remove(key);
+Set<Map.Entry<K,V>> entrySet();  //front is return type
+Set<K> keySet();
+Collections<V> values(); 
+//HashMap is printbal 
 ```
 ### HashSet
 
 ```java
 HashSet<T> set = new HashSet<>();
-set.add(key);
+set.add(key);    //return false if already inside
 set.contains(key);
 set.remove(key);
 ```

@@ -3,28 +3,19 @@ import tree.*;
 
 public class TestFile {
     public static void main(String[] args) {
-        TreeNode root = Tree.constructTree(new Integer[] {null});
-        System.out.println(new TestFile().isBST(root));
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        Iterator<Integer> it1 = list.iterator();
+        Iterator<Integer> it2 = it1;
+        it1.next();
+//        it1.remove();
+
+        System.out.println(it2.next());
+        System.out.println(list.get(0));
     }
 
-    public boolean isBST(TreeNode root) {
-        TreeNode[] prev = new TreeNode[]{null};
-        return check(root, prev);
-    }
-
-    public boolean check(TreeNode root, TreeNode[] prev) {
-        if (root == null) {
-            return true;
-        }
-        if(!check(root.left, prev)) {
-            return false;
-        }
-        if (prev[0] != null && root.key <= prev[0].key) {
-            return false;
-        }
-        prev[0] = root;
-        return check(root.right, prev);
-    }
 }
 
 

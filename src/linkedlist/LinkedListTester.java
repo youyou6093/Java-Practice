@@ -1,5 +1,5 @@
 package linkedlist;
-import class3stackqueuelinkedlist.ReverseLinkedList;
+import class4LinkedList.ReverseLinkedList;
 
 public class LinkedListTester {
     public static void main(String[] args) {
