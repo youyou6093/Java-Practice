@@ -1,6 +1,6 @@
 package class15Sampling;
 
-
+//checked
 import java.util.Arrays;
 
 public class PerfectShuffle {

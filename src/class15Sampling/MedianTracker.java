@@ -1,6 +1,7 @@
 package class15Sampling;
 import java.util.*;
 
+//checked
 public class MedianTracker {
     private PriorityQueue<Integer> minHeap = new PriorityQueue<>();//right
     private PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());//left

@@ -2,7 +2,7 @@ package class15Sampling;
 
 import java.util.Random;
 
-
+//checked
 
 public class Random1000UsingRandom5 {
     private int random5() {

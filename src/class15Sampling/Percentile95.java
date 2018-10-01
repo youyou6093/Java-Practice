@@ -1,6 +1,8 @@
 package class15Sampling;
 import java.util.*;
 
+
+//checked
 public class Percentile95 {
     public int percentile95(List<Integer> lengths) {
         int[] array = new int[4097];

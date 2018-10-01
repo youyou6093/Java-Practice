@@ -1,6 +1,6 @@
 package class16DP;
 
-
+//checked
 public class LargestSubArraySum0 {
     public int largestSum(int[] array) {
         int n = array.length;

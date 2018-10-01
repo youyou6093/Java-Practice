@@ -1,7 +1,7 @@
 package class14DP;
 
 
-
+//checked
 public class ArrayHopperI {
     public boolean canJump(int[] array) {
         boolean[] dp = new boolean[array.length];
@@ -15,7 +15,5 @@ public class ArrayHopperI {
             }
         }
         return dp[0];
-
-
     }
 }

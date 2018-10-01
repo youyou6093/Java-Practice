@@ -1,7 +1,7 @@
 package class15Sampling;
 import java.util.*;
 
-
+//checked
 public class ReservoirSampling {
     private int count;
     private Integer sample;

@@ -1,6 +1,6 @@
 package class16DP;
 
-
+//checked
 public class LargestSquareOf1s {
     public int largest(int[][] matrix) {
         int m = matrix.length;

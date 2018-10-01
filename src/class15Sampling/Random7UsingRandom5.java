@@ -2,7 +2,7 @@ package class15Sampling;
 import java.util.*;
 
 
-
+//checked
 public class Random7UsingRandom5 {
     private int random5() {
         return new Random().nextInt(5);

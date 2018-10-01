@@ -1,7 +1,7 @@
 package class16DP;
 
 
-
+//checked
 public class EditDistance {
     public int editDistance(String one, String two) {
         int l1 = one.length(), l2 = two.length();

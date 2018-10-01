@@ -1,7 +1,7 @@
 package class14DP;
 
 
-
+//checked
 public class LongestAscendingSubArray {
     public int longest(int[] array) {
         if (array.length == 0) {
