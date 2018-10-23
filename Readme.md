@@ -25,6 +25,7 @@ StringBuilder sol = new StringBuilder();
 sol.append(chr);
 sol.toString();
 sol.deleteCharAt(sol.length() - 1);
+sol.delete(a, b);   //a is included, b is not
 StringBuilder sol = new StringBuilder(string);
 ```
 

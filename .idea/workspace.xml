@@ -2,24 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b8a442-4569-4b05-ba86-92cd519dbf3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CrossTraining/ArrayDeduplicationIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CrossTraining/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining3/BinaryTreePathSumToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining3/ReconstructBSTWithPostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithLevelorderAndInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithPreorderAndInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/AllSubsets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/AllValidParenthesis2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/CommonNumberInThreeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/ReverseBinaryTreeUpsideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining4/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21DP3/LargestXOf1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21DP3/LongestCrossOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23CrossTraining1/MoveZeros2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/ClosestNumberInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/CuttingWood1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyLinkedListWithRandomPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/InsertInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/LargestNuberSmallerBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/MergeStone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24CrossTraining2/SearchInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_TestNG_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_TestNG_Release.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class14DP/ArrayHopperI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP/ArrayHopperI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class14DP/LongestAscendingSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP/LongestAscendingSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class14DP/MaxProductOfCuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP/MaxProductOfCuttingRope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/MedianTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/MedianTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Percentile95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/Percentile95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/PerfectShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/PerfectShuffle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Random1000UsingRandom5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/Random1000UsingRandom5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Random7UsingRandom5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/Random7UsingRandom5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15Sampling/ReservoirSampling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15Sampling/ReservoirSampling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/ArrayHopperII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/ArrayHopperII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/DictionaryWordI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/DictionaryWordI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSquareOf1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/LargestSquareOf1s.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrossTraining/ArrayDeduplicationIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23CrossTraining1/ArrayDeduplicationIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrossTraining/RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23CrossTraining1/RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14DP/ArrayHopperI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP1/ArrayHopperI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14DP/LongestAscendingSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP1/LongestAscendingSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14DP/MaxProductOfCuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14DP1/MaxProductOfCuttingRope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/MedianTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/MedianTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Percentile95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/Percentile95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/PerfectShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/PerfectShuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Random1000UsingRandom5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/Random1000UsingRandom5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/Random7UsingRandom5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/Random7UsingRandom5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15Sampling/ReservoirSampling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class16Sampling/ReservoirSampling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/ArrayHopperII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/ArrayHopperII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/DictionaryWordI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/DictionaryWordI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSquareOf1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/LargestSquareOf1s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/LargestSubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16DP/LargestSubArraySum0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17DP2/LargestSubArraySum0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class17DP/LargestSumMatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class21DP3/LargestSumMatrixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlistProblems/MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24CrossTraining2/MergeKSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeProblems/DeleteInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24CrossTraining2/DeleteInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeProblems/MaximumPathSumI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeProblems/MaximumPathSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeProblems/MaximumPathSumIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumIII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,38 +298,45 @@
     <session id="-1598499620">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="47" />
-          <entry key="md" value="1" />
+          <entry key="java" value="103" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="47" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="103" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3107" />
+          <entry key="java" value="13019" />
+          <entry key="md" value="81" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3107" />
+          <entry key="JAVA" value="13020" />
+          <entry key="Markdown" value="80" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -304,45 +344,59 @@
     <session id="1453919798">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.24" value="4" />
           <entry key="project.open.time.25" value="3" />
-          <entry key="project.open.time.26" value="4" />
+          <entry key="project.open.time.26" value="5" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="17751" />
+          <entry key="java" value="23005" />
           <entry key="md" value="378" />
-          <entry key="txt" value="36" />
+          <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17758" />
+          <entry key="JAVA" value="23012" />
           <entry key="Markdown" value="371" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="PLAIN_TEXT" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="268" />
+          <entry key="java" value="301" />
           <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="268" />
+          <entry key="JAVA" value="301" />
           <entry key="Markdown" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1481094727">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -360,7 +414,62 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrossTraining4/ReverseBinaryTreeUpsideDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrossTraining4/AllSubsets2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrossTraining4/AllValidParenthesis2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrossTraining4/FourSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorIV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -382,40 +491,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/CommonNumbersOfTwoSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/RemoveCertainCharacters.java" />
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/RemoveSpaces.java" />
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/RemoveAdjacentRepeatedChrs.java" />
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/RemoveAdjacentRepeatedCharacterIV.java" />
-        <option value="$PROJECT_DIR$/src/class8hashtablestring1/Strstr.java" />
-        <option value="$PROJECT_DIR$/src/class9String2/ReverseWordsInASentenceI.java" />
-        <option value="$PROJECT_DIR$/src/class9String2/StringReplace.java" />
-        <option value="$PROJECT_DIR$/Readme.md" />
-        <option value="$PROJECT_DIR$/src/class9String2/AllPermutations2.java" />
-        <option value="$PROJECT_DIR$/src/class9String2/LongestSubStringWithoutRepeating.java" />
-        <option value="$PROJECT_DIR$/src/class9String2/DecompressStringII.java" />
-        <option value="$PROJECT_DIR$/src/class9String2/AllAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/SpiralOrderTraversal2.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/SpiralOrderTraversal1.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/ReverseLinkedListInPairs.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/StringAbbreviationMatch.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/LowestCommonAncestor1.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/NQueens.java" />
-        <option value="$PROJECT_DIR$/src/class12Recursion2/NQueensWithSets.java" />
-        <option value="$PROJECT_DIR$/src/class13Bit/PowerOfTwo.java" />
-        <option value="$PROJECT_DIR$/src/class13Bit/AllUniqueCharactersII.java" />
-        <option value="$PROJECT_DIR$/src/class13Bit/AllUniqueCharactersI.java" />
-        <option value="$PROJECT_DIR$/src/class13Bit/NumberOfDifferentBits.java" />
-        <option value="$PROJECT_DIR$/src/class13Bit/HexadecimalRepresentation.java" />
-        <option value="$PROJECT_DIR$/src/class15DP/ArrayHopperII.java" />
-        <option value="$PROJECT_DIR$/src/class15DP/LargestSubArraySum.java" />
-        <option value="$PROJECT_DIR$/src/class15DP/DictionaryWordI.java" />
         <option value="$PROJECT_DIR$/src/class15DP/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/class3stackqueuelinkedlist/SortWith3Stacks.java" />
         <option value="$PROJECT_DIR$/src/class15DP/LargestSquareOf1s.java" />
         <option value="$PROJECT_DIR$/src/class15DP/LargestSubArraySum0.java" />
         <option value="$PROJECT_DIR$/src/class16DP/LargestSumMatrixSum.java" />
-        <option value="$PROJECT_DIR$/src/TestFile.java" />
         <option value="$PROJECT_DIR$/src/CrossTraining/ArrayDeduplicationIV.java" />
         <option value="$PROJECT_DIR$/src/CrossTraining/RotateMatrix.java" />
         <option value="$PROJECT_DIR$/src/class14DP/MaxProductOfCuttingRope.java" />
@@ -433,6 +513,35 @@
         <option value="$PROJECT_DIR$/src/class16DP/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/class16DP/LargestSquareOf1s.java" />
         <option value="$PROJECT_DIR$/src/class16DP/LargestSubArraySum.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining/LowestCommonAncestorII.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining/MoveZeros2.java" />
+        <option value="$PROJECT_DIR$/src/TestFile.java" />
+        <option value="$PROJECT_DIR$/src/class17DP/LongestCrossOf1.java" />
+        <option value="$PROJECT_DIR$/src/class17DP/LargestXOf1s.java" />
+        <option value="$PROJECT_DIR$/src/class17DP/LargestSumMatrixSum.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining1/RotateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/InsertInBST.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/SearchInBST.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/DeleteInBST.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyLinkedListWithRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyUndirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/MergeKSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/ClosestNumberInBST.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/LargestNuberSmallerBST.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/MergeStone.java" />
+        <option value="$PROJECT_DIR$/src/class24CrossTraining2/CuttingWood1.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining3/BinaryTreePathSumToTarget.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithPreorderAndInorder.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining3/ReconstructBSTWithPostorder.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/AllSubsets2.java" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithLevelorderAndInorder.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/FourSum.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/AllValidParenthesis2.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/CommonNumberInThreeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/CrossTraining4/ReverseBinaryTreeUpsideDown.java" />
+        <option value="$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorIV.java" />
       </list>
     </option>
   </component>
@@ -448,9 +557,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="51" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="87" />
+    <option name="y" value="23" />
     <option name="width" value="1242" />
     <option name="height" value="777" />
   </component>
@@ -623,7 +732,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -640,14 +750,19 @@
               <item name="JavaPractice1" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="class17DP" type="462c0819:PsiDirectoryNode" />
+              <item name="class23CrossTraining1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="class24CrossTraining2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,7 +771,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538333334679" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540314782890" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -693,13 +808,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateMatrix">
-    <configuration name="DictionaryWordI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class16DP.DictionaryWordI" />
+  <component name="RunManager" selected="Application.AllValidParenthesis2">
+    <configuration name="AllValidParenthesis2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrossTraining4.AllValidParenthesis2" />
       <module name="JavaPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class16DP.*" />
+          <option name="PATTERN" value="CrossTraining4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -707,12 +822,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15Sampling.PerfectShuffle" />
+    <configuration name="BinaryTreePathSumToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrossTraining3.BinaryTreePathSumToTarget" />
       <module name="JavaPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15Sampling.*" />
+          <option name="PATTERN" value="CrossTraining3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -720,12 +835,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CrossTraining.RotateMatrix" />
+    <configuration name="CuttingWood1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24CrossTraining2.CuttingWood1" />
       <module name="JavaPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CrossTraining.*" />
+          <option name="PATTERN" value="class24CrossTraining2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -733,12 +848,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortWith3Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class3stackqueuelinkedlist.SortWith3Stacks" />
+    <configuration name="LongestCrossOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21DP3.LongestCrossOf1" />
       <module name="JavaPractice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3stackqueuelinkedlist.*" />
+          <option name="PATTERN" value="class21DP3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -746,27 +861,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestFile" />
+    <configuration name="ReconstructBTWithLevelorderAndInorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrossTraining3.ReconstructBTWithLevelorderAndInorder" />
       <module name="JavaPractice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrossTraining3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestFile" />
-      <item itemvalue="Application.DictionaryWordI" />
-      <item itemvalue="Application.SortWith3Stacks" />
-      <item itemvalue="Application.PerfectShuffle" />
-      <item itemvalue="Application.RotateMatrix" />
+      <item itemvalue="Application.LongestCrossOf1" />
+      <item itemvalue="Application.CuttingWood1" />
+      <item itemvalue="Application.BinaryTreePathSumToTarget" />
+      <item itemvalue="Application.ReconstructBTWithLevelorderAndInorder" />
+      <item itemvalue="Application.AllValidParenthesis2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.TestFile" />
-        <item itemvalue="Application.PerfectShuffle" />
-        <item itemvalue="Application.SortWith3Stacks" />
-        <item itemvalue="Application.DictionaryWordI" />
+        <item itemvalue="Application.AllValidParenthesis2" />
+        <item itemvalue="Application.ReconstructBTWithLevelorderAndInorder" />
+        <item itemvalue="Application.BinaryTreePathSumToTarget" />
+        <item itemvalue="Application.CuttingWood1" />
+        <item itemvalue="Application.LongestCrossOf1" />
       </list>
     </recent_temporary>
   </component>
@@ -861,7 +982,28 @@
       <workItem from="1538244761066" duration="181000" />
       <workItem from="1538269531267" duration="3896000" />
       <workItem from="1538330170751" duration="3088000" />
-      <workItem from="1538355932121" duration="3686000" />
+      <workItem from="1538355932121" duration="3771000" />
+      <workItem from="1538363709334" duration="1314000" />
+      <workItem from="1538490819997" duration="2858000" />
+      <workItem from="1538611067778" duration="21000" />
+      <workItem from="1538611094386" duration="71000" />
+      <workItem from="1538611242146" duration="245000" />
+      <workItem from="1538621508662" duration="680000" />
+      <workItem from="1538854900091" duration="2978000" />
+      <workItem from="1538864026028" duration="1215000" />
+      <workItem from="1538870537485" duration="5779000" />
+      <workItem from="1538946912166" duration="33000" />
+      <workItem from="1538946983477" duration="15000" />
+      <workItem from="1538957285780" duration="4748000" />
+      <workItem from="1539416094390" duration="590000" />
+      <workItem from="1539472073180" duration="19915000" />
+      <workItem from="1539811980728" duration="1334000" />
+      <workItem from="1539827613299" duration="1459000" />
+      <workItem from="1539899521385" duration="1555000" />
+      <workItem from="1539998943641" duration="89000" />
+      <workItem from="1540071926388" duration="7436000" />
+      <workItem from="1540170170586" duration="5548000" />
+      <workItem from="1540314704154" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="Add a few  tree examples.">
       <created>1535348294638</created>
@@ -982,7 +1124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538172323018</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="DPII done">
+      <created>1538359699413</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538359699413</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1018,7 +1167,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="323595000" />
+    <option name="totallyTimeSpent" value="381633000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1030,9 +1179,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="-8" width="1849" height="1089" extended-state="6" />
+    <frame x="304" y="23" width="1242" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6709539" visible="true" weight="0.20635806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6709539" visible="true" weight="0.20333333" />
       <window_info id="Structure" order="1" sideWeight="0.32905984" side_tool="true" weight="0.22775991" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1042,7 +1192,7 @@
       <window_info id="Repositories" order="7" sideWeight="0.4989059" weight="0.329582" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.11240876" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.09489051" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4364224" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.0" />
@@ -1050,8 +1200,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.30125523" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50083333" side_tool="true" weight="0.3295964" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.270073" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49893162" weight="0.3211679" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.26778242" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49893162" weight="0.30230126" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973205" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1063,6 +1213,38 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32915622" />
       <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50106835" side_tool="true" weight="0.21751255" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6709539" visible="true" weight="0.24232633" />
+      <window_info id="Structure" order="1" sideWeight="0.32905984" side_tool="true" weight="0.22775991" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.3290461" side_tool="true" weight="0.16843279" />
+      <window_info id="Repositories" order="7" sideWeight="0.4989059" weight="0.329582" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.11240876" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.04380342" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49916667" weight="0.23151125" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30125523" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50083333" side_tool="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26902464" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49893162" weight="0.15811966" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973205" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32915622" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50106835" side_tool="true" weight="0.21751255" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1125,93 +1307,55 @@
     <MESSAGE value="refactor code layout" />
     <MESSAGE value="class7 done, need to check solutions" />
     <MESSAGE value="class15done" />
-    <option name="LAST_COMMIT_MESSAGE" value="class15done" />
+    <MESSAGE value="DPII done" />
+    <option name="LAST_COMMIT_MESSAGE" value="DPII done" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/CommonNumbersOfTwoSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/MissingNumber1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/RemoveAdjacentRepeatedCharacterIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/RemoveAdjacentRepeatedChrs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/RemoveCertainCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/RemoveSpaces.java">
+    <entry file="file://$PROJECT_DIR$/src/class16Sampling/Random1000UsingRandom5.java" />
+    <entry file="file://$PROJECT_DIR$/src/class16Sampling/ReservoirSampling.java" />
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/EditDistance.java" />
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/LargestSubArraySum0.java" />
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/LargestSquareOf1s.java" />
+    <entry file="file://$PROJECT_DIR$/src/class14DP1/ArrayHopperI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/Strstr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/TopKWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="1260">
-            <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class3stackqueuelinkedlist/SortWith3Stacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/ArrayHopperII.java" />
+    <entry file="file://$PROJECT_DIR$/src/class16Sampling/MedianTracker.java" />
+    <entry file="file://$PROJECT_DIR$/src/class23CrossTraining1/MoveZeros2.java" />
     <entry file="file://$PROJECT_DIR$/src/class12Recursion2/LowestCommonAncestor1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state>
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorII.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class3stackqueuelinkedlist/SortWith2Stacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/LargestSubArraySum.java" />
+    <entry file="file://$PROJECT_DIR$/src/class21DP3/LargestSumMatrixSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/class21DP3/LongestCrossOf1.java" />
+    <entry file="file://$PROJECT_DIR$/src/class21DP3/LargestXOf1s.java" />
     <entry file="file://$PROJECT_DIR$/src/class12Recursion2/NQueens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1219,264 +1363,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class12Recursion2/NQueensWithSets.java">
+    <entry file="file://$PROJECT_DIR$/src/class17DP2/DictionaryWordI.java" />
+    <entry file="file://$PROJECT_DIR$/src/class23CrossTraining1/RotateMatrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/class14DP1/MaxProductOfCuttingRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/SearchInBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/class6heapbfs/KthSmallestNumberInSortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/MergeKSortedLists.java" />
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/ReconstructBSTWithPostorder.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumIII.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumII.java" />
+    <entry file="file://$PROJECT_DIR$/src/class8hashtablestring1/TopKWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyLinkedListWithRandomPointer.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/DeepCopyUndirectedGraph.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/InsertInBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/ClosestNumberInBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/DeleteInBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/CuttingWood1.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/LargestNuberSmallerBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/class24CrossTraining2/MergeStone.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithLevelorderAndInorder.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/ReconstructBTWithPreorderAndInorder.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/BinaryTreePathSumToTarget.java" />
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining3/MaximumPathSumI.java" />
+    <entry file="file://$PROJECT_DIR$/src/class7dfs/ParenthesesPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class12Recursion2/ReverseLinkedListInPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class12Recursion2/SpiralOrderTraversal1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class12Recursion2/SpiralOrderTraversal2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class12Recursion2/StringAbbreviationMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/ReorderArray.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/LongestSubStringWithoutRepeating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="54">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/DecompressStringII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/CompressString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/AllPermutations2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/AllAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/ReverseWordsInASentenceI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/RightShiftByNCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class10String2/StringReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CrossTraining/ArrayDeduplicationIV.java" />
-    <entry file="file://$PROJECT_DIR$/src/CrossTraining/RotateMatrix.java" />
-    <entry file="file://$PROJECT_DIR$/src/TestFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class17DP/LargestSumMatrixSum.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/CommonNumberInThreeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class13Bit/AllUniqueCharactersI.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/ReverseBinaryTreeUpsideDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class13Bit/AllUniqueCharactersII.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/AllSubsets2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class13Bit/HexadecimalRepresentation.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/AllValidParenthesis2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="645">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class13Bit/NumberOfDifferentBits.java">
+    <entry file="file://$PROJECT_DIR$/src/CrossTraining4/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class13Bit/PowerOfTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/class23CrossTraining1/LowestCommonAncestorIV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class14DP/ArrayHopperI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class14DP/LongestAscendingSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class14DP/MaxProductOfCuttingRope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/MedianTracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/Percentile95.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/PerfectShuffle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/Random7UsingRandom5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/Random1000UsingRandom5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class15Sampling/ReservoirSampling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/ArrayHopperII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/DictionaryWordI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/LargestSubArraySum0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/LargestSquareOf1s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/class16DP/LargestSubArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="15">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
